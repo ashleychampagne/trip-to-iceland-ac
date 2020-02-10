@@ -1,4 +1,5 @@
 ## to do 
 - plan dates
 - get flights
-- make reservations 
+- make reservations
+- research hotels
