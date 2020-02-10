@@ -2,3 +2,5 @@
 - rain jacket
 - boots
 - food
+- WALKING Stick?!
+
